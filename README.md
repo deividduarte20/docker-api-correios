@@ -1,4 +1,4 @@
-# Esse projeto consiste em criar imagem de container e buildar e em seguidar subir o mesmo o container ubuntu com nginx e uma página que permite consulta de CEP
+## Esse projeto consiste em criar imagem de container e buildar e em seguidar subir o mesmo o container ubuntu com nginx e uma página que permite consulta de CEP
 
 ## Requisitos:
 | docker |
